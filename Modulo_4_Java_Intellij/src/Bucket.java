@@ -159,7 +159,7 @@ public class Bucket {
         //----------------------------------------------------
 
         System.out.println("\nUsando o For");
-        int i;
+        //int i;
         for (i = 0; i <= 3; i++) {
             System.out.println("Postagem: " + (i + 1) + " " + postagens[i]);
         };
