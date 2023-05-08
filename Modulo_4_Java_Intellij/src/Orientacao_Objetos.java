@@ -53,7 +53,6 @@ funcao deslogar
  deslogar
  logar
 
-
 -----------------------------
 3) Programação Modular
 -----------------------------
