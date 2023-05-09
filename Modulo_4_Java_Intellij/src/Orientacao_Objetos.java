@@ -74,7 +74,7 @@ Módulo Usuário:
 
 Classe Usuário:
 
-     fuj ncao logar
+     funcao logar
           recebe email e senha
           verifica se o usuario existe
           envia este usuario para a tela inicial do sistema
@@ -83,20 +83,26 @@ Classe Usuário:
           sair do sistema
           vai para tela inicial
 
+//----------------------------------------------------
+
+   4 Pilares da OO:
+   ----------------
    => Abstração
    => Encapsulamento
    => Herança
    => Polimorfismo
 
-Lower Camel Case:    jogoMarioKart
+Lower Camel Case:  jogoMarioKart
 
-Uper  Camel Case:    JogoMarioKart
+Uper  Camel Case:  JogoMarioKart
 
-Snake Case:      jogo_mario_kart
+Snake Case:        jogo_mario_kart
 
-Kebabe Case:     jogo-mario-kart
+Kebabe Case:       jogo-mario-kart
 
  */
+
+
 
 public class Orientacao_Objetos {
 
