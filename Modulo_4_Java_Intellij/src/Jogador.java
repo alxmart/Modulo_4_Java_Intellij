@@ -1,15 +1,14 @@
-class Jogador {
 
-    // Atributos
+class Jogador {    // Classe
 
-    String kart = "";
+    String kart = "";    // Atributos
     String pneu = "";
     String planador = "";
 
-    // Método
 
-    void acelerar() {
-        System.out.println("Acelerar: " + pneu);
+    void acelerar() {   // Método
+        System.out.println("Acelerar: " + " Pneu: " + pneu);
     }
+
 }
 

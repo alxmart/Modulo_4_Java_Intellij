@@ -17,6 +17,7 @@ public class Arrays {
 
         int i;
         System.out.println("===========  Usando For: ==========");
+
         for (i =0; i <= 3; i++) {
             System.out.println("Nome " + i + " " + nomes[i]);
         };

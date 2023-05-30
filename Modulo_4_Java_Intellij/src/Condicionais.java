@@ -3,6 +3,7 @@ public class Condicionais {
     public static void main(String[] args) {
 
         byte idade = 15;
+
         if (idade >= 18) {
             System.out.println("Pode acessar o App");
         } else {
@@ -12,7 +13,8 @@ public class Condicionais {
 //---------------------------------------------------------------
 
         double compras = 300.0;
-        if ((compras >= 300) || (idade >= 50)) {
+
+        if ((compras >= 300) && (idade >= 50)) {
             System.out.println("Recebe desconto de 30%");
         } else {
             System.out.println("Sem desconto.");

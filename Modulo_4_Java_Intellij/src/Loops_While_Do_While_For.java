@@ -53,6 +53,12 @@ public class Loops_While_Do_While_For {
             numerox++;
         } while (numerox <= 3);
 
+        int copas = 0;
+
+        for (copas=0; copas <= 3; copas++) {
+            System.out.println("Copas: " + copas);
+        }
+
 
     }
 }

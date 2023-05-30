@@ -13,7 +13,9 @@ public class Variables {
 
         String nome;
         nome = "Homer J Simpson";
-                Integer idade = 48;
+
+        Integer idade = 48;
+
         System.out.println("Usuário: " + nome + "\nIdade: " + idade);
 
         final Double PI = 3.14;
@@ -38,7 +40,7 @@ public class Variables {
         float precoProduto = 34.99f;
         System.out.println("Preço: " + precoProduto);
 
-        double total = 34.99f;
+        double total = 34.99;
         System.out.println("Total: " + total);
 
         // Classes WRAPPER
@@ -50,8 +52,7 @@ public class Variables {
         String nomeC = "Bart";
         System.out.println("IdadeC: " + idadeC);
 
-
-
-
+        final float precoPromo = 9.99f;
+        System.out.println("Preço Promo:" + precoPromo);
     }
 }
