@@ -3,10 +3,12 @@ public class Loops_While_Do_While_For {
     public static void main(String[] args) {
 
         int num = 10;
+
         num += 1;
         System.out.println("Numero: " + num);
 
         num = 0;
+
         while (num < 10) {
             System.out.println("Numero: " + num);
             num++;
@@ -24,7 +26,9 @@ public class Loops_While_Do_While_For {
         //----------------------------------------------------
 
         System.out.println("\nUsando o For");
+
         int i;
+
         for (i = 0; i <= 3; i++) {
             System.out.println("Postagem: " + (i + 1) + " " + postagens[i]);
         };
@@ -36,7 +40,9 @@ public class Loops_While_Do_While_For {
         //-------------------------------------------------------------
 
         System.out.println("\nUsando While" );
+
         int numero = 0;
+
         while (numero <= 3) {
             System.out.println("Postagem: " + (numero + 1)
                     + " " + postagens[numero]);
@@ -46,19 +52,21 @@ public class Loops_While_Do_While_For {
         //----------------------------------------------------
 
         System.out.println("\nUsando Do While" );
+
         int numerox = 0;
+
         do {
             System.out.println("Postagem: " + (numerox + 1)
                     + " " + postagens[numerox]);
             numerox++;
         } while (numerox <= 3);
 
+
         int copas = 0;
 
         for (copas=0; copas <= 3; copas++) {
             System.out.println("Copas: " + copas);
         }
-
 
     }
 }

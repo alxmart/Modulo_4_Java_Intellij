@@ -4,7 +4,9 @@ public class Ternario_E_Switch {
 
         // TERNÁRIO
         int idade = 12;
+
         String texto = (idade >= 18) ? "Maior" : "MENOR";
+
         System.out.println(texto);
 
         //SWITCH
