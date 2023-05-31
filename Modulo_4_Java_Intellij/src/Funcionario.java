@@ -1,12 +1,11 @@
+
 class Funcionario {
 
-    // Atributo
     double salario = 0.0;
 
-    // Método
-    double calcularSalarioComDesconto(double desc) {
+    double calcSalComDesconto(double bonus) {
 
-        double totalComDesconto = salario - desc;
+        double totalComDesconto = salario - 20.00 + bonus;
 
         return totalComDesconto;
     }
