@@ -94,7 +94,7 @@ Classe Usuário:
 
 Lower Camel Case:  jogoMarioKart
 
-Uper  Camel Case:  JogoMarioKart
+Upper  Camel Case:  JogoMarioKart
 
 Snake Case:        jogo_mario_kart
 
