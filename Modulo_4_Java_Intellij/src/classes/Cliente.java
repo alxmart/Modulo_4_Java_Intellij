@@ -1,11 +1,18 @@
 package classes;
 
-public class Cliente {
+public class Cliente extends ContaBancaria {
 
     void teste() {
+        this.saldo = 10;
+    }
 
-        ContaBancaria conta2 = new ContaBancaria();
-        conta2.
+    public static void main(String[] args) {
+
+//        Cliente cliente = new Cliente();
+//        cliente.sacar();
+
+
 
     }
+
 }

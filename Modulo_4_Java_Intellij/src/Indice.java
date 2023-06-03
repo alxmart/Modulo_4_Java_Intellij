@@ -16,13 +16,9 @@ public class Indice {
 
     // Encapsulamento     => ContaBancaria / RunConta / Cliente
 
-    // Herança    =>
+    // Herança    =>  Animal /Cachorro / Passaro / Heranca
 
-
-
-
-
-
+    // Polimorfismo =>
 
 
 }
