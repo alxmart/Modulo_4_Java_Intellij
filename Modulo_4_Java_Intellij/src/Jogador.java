@@ -10,6 +10,5 @@ class Jogador {
         System.out.println("Acelerar: " + pneu);
     }
 
-
 }
 
