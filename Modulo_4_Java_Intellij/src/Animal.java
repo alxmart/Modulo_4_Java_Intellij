@@ -2,15 +2,27 @@ public class Animal {
 
     String cor;
     int tamanho;
+    int quantidadePatas;
     double peso;
 
+    public Animal() {
+
+    }
+
+    public Animal(String cor,int tamanho, int qtdPatas, double peso){
+        //Validações do que foi passado
+        this.cor = cor;
+        this.tamanho = tamanho;
+        this.quantidadePatas = qtdPatas;
+        this.peso = peso;
+    }
+
     void correr() {
-        System.out.println("Correr.");
+        System.out.println("Correr como um "); // 20 linhas fictícias
     }
 
     void dormir() {
         System.out.println("Dormir.");
     }
-
 
 }

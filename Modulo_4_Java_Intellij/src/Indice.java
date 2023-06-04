@@ -18,7 +18,12 @@ public class Indice {
 
     // Herança    =>  Animal /Cachorro / Passaro / Heranca
 
-    // Polimorfismo =>
+    // Polimorfismo => Animal /Cachorro / Passaro / Heranca
+
+    // Construtor com Herança => Animal /Cachorro / Passaro / Heranca
+
+    //Classe concreta vs abstrata => Animal /Cachorro / Passaro / Heranca
+
 
 
 }
