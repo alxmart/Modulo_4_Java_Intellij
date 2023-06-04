@@ -24,6 +24,9 @@ public class Indice {
 
     //Classe concreta vs abstrata => Animal /Cachorro / Passaro / Heranca
 
-    // Interface =>
+    // Interface =>  Interface
+
+    // Métodos Abstratos
+    //   e Passagem de Parâmetros   =>
 
 }
