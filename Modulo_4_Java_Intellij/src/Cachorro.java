@@ -1,6 +1,6 @@
 // Classe filha ou subclasse
 
-public class Cachorro extends Animal {
+public class Cachorro extends Animal {//Classe filha,subclasse, concreta
 
     // Atributos específicos para o cachorro
 

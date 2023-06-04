@@ -1,4 +1,5 @@
-public class Animal {
+
+abstract class Animal {//Classe pai => Super classe, abstrata
 
     String cor;
     int tamanho;
