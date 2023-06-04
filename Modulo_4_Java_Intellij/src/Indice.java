@@ -27,6 +27,6 @@ public class Indice {
     // Interface =>  Interface
 
     // Métodos Abstratos
-    //   e Passagem de Parâmetros   =>
+    //   e Passagem de Parâmetros   => Interface
 
 }
